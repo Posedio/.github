@@ -3,15 +3,16 @@
 ### 🍪 Hard facts
 - 🚀 Founded in 2020
 - 🇦🇹 Weyringergasse 1-3/DG, 1040 Wien
-- ☁️ Cloud Excellence: Because Even Clouds Need Heroes!
+- ☁️ Do it once. Do it right. Do it with Posedio.
 
-### 🔭 Expertise
+### 🔭 Services
 
-- Cloud: Google Cloud, Microsoft Azure, Amazon Web Services
-- CI/CD Tools: GitLab, ArgoCD, Flux, Jenkins
-- Monitoring & Auditing: Prometheus, Grafana, Thanos
-- Container Orchestration Tools: Kubernetes
-- Configuration Management: Terraform, Ansible
+- Cloud-native Softwareentwicklung
+- Data Insights
+- Beratung, Workshops und Reviews
+- Platform Engineering
+- Cloud Infrastructure
+- Software-Modernisierung
 
 ### 📫 How to reach us:
 
